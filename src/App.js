@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 
-import RPC from "./components/rpc";
+import RPS from "./components/rps";
 
 function App() {
 	return (
 		<React.Fragment>
-			<RPC />
+			<RPS />
 		</React.Fragment>
 	);
 }
